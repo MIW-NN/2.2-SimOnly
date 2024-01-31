@@ -6,8 +6,6 @@ import java.util.Scanner;
 
 public class SimOnlyLauncher {
 
-    final static double SUITABLE_PERCENTAGE = 0.2;
-
     public static void main(String[] args) {
         System.out.println("Uitwerking van Gerke de Boer");
         // Variabelen declareren en initialiseren waar nodig
